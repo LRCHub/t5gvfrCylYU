@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "絶対狂愛エゴイスト",
+  "base_artist": "モンスターストライク",
+  "createdAt": "2026-02-13T23:34:41.898601Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶対狂愛エゴイスト (Call Guide)",
+      "artist": "モンスターストライク",
+      "has_synced": false,
+      "path": "select/pl_01_絶対狂愛エゴイスト_(Call_Guide)_モンスターストライク.txt"
+    }
+  ]
+}
